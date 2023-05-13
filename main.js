@@ -1,0 +1,14 @@
+var firstname="Zuhayr";
+console.log(firstname);
+var lastname="Ganny";
+console.log(lastname);
+var joinnames=firstname.concat(lastname);
+console.log(joinnames);
+var a=5;
+var b=10;
+console.log(a);
+console.log(b);
+var add=a+b;
+console.log(add);
+var multiply=a*b;
+console.log(multiply);
